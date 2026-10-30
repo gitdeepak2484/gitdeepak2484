@@ -39,7 +39,10 @@ Imagine a pond buried beneath mud, waste, and debris. Its true beauty remains hi
 
 ## 🚀 Featured Projects
 
-*My data analytics projects and their documentation will be showcased here as I publish them.*
+### 🛒 Retail Chain Profit Leakage & Demand Optimization
+An end-to-end retail analytics project using Python, SQL, Power BI, and Tableau to investigate profit leakage, returns, promotion performance, stockout demand, and customer behavior.
+
+[**View Project Repository →**](https://github.com/gitdeepak2484/retail-profit-leakage-demand-optimization)
 
 ## 📫 Connect With Me
 
