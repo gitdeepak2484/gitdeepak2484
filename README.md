@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Mani Deepak 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Business Intelligence | Turning Data into Insights</h3>
+<h3 align="center">Data Analyst | Business Intelligence Analyst| Turning Data into Insights</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+meaningful+insights;Exploring+patterns+and+business+opportunities;Building+data-driven+dashboards+and+reports" alt="Typing introduction" />
